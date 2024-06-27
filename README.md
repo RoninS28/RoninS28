@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-I am a <b>Masters</b> in Computer Science student at 🎓<b>North Carolina State University</b><a href="https://www.ncsu.edu/" color="black">🔗</a>
+I am a <b>Masters</b> in Computer Science Graduate from 🎓<b>North Carolina State University</b><a href="https://www.ncsu.edu/" color="black">🔗</a>
 <br>
 
 ## Skills and Experience
